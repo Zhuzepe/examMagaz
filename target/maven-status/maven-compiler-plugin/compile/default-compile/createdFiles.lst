@@ -1,0 +1,11 @@
+com\examprojectrestaurant\converters\MenuItemQuantityConverter.class
+com\examprojectrestaurant\validators\MenuItemQuantityValidator.class
+com\examprojectrestaurant\entitys\order\clients\Client.class
+com\examprojectrestaurant\entitys\order\menuitems\AbstractMenuItem.class
+com\examprojectrestaurant\entitys\order\menuitems\ChickenFried.class
+com\examprojectrestaurant\databeans\OrdersHistory.class
+com\examprojectrestaurant\entitys\order\menuitems\Salad.class
+com\examprojectrestaurant\entitys\order\menuitems\MenuItemSelected.class
+com\examprojectrestaurant\entitys\order\Order.class
+com\examprojectrestaurant\entitys\order\menuitems\FrenchFries.class
+com\examprojectrestaurant\databeans\NewLaunch.class
